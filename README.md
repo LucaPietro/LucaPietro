@@ -16,6 +16,13 @@ I'm Luca, a freelance developer from Brazil. Feel free to contact me about anyth
 <img src="https://img.shields.io/badge/r-%23276DC3.svg?&style=for-the-badge&logo=r&logoColor=white" />
 <br/>
 
+⚡ Codewars:
+
+<a href="https://www.codewars.com/users/LucaPietro">
+  <img src="https://www.codewars.com/users/LucaPietro/badges/large" />
+</a>
+<br/>
+
 📫 How to reach me:
 
 <a href="mailto:lucabaronpietro@gmail.com">
@@ -24,27 +31,3 @@ I'm Luca, a freelance developer from Brazil. Feel free to contact me about anyth
 <a href="https://www.linkedin.com/in/luca-baron-pietro-64a509151/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<br/>
-
-⚡ Codewars:
-
-<a href="https://www.codewars.com/users/LucaPietro">
-  <img src="https://www.codewars.com/users/LucaPietro/badges/large" />
-</a>
-
-
-<!--
-**LucaPietro/LucaPietro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
- 
