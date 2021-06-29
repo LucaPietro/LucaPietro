@@ -16,13 +16,6 @@ I'm Luca, a freelance developer from Brazil. Feel free to contact me about anyth
 <img src="https://img.shields.io/badge/r-%23276DC3.svg?&style=for-the-badge&logo=r&logoColor=white" />
 <br/>
 
-⚡ Codewars:
-
-<a href="https://www.codewars.com/users/LucaPietro">
-  <img src="https://www.codewars.com/users/LucaPietro/badges/large" />
-</a>
-<br/>
-
 📫 How to reach me:
 
 <a href="mailto:lucabaronpietro@gmail.com">
