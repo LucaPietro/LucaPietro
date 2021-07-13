@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Luca, a freelance developer from Brazil. Feel free to contact me about anything.
+I'm Luca, a software engineer from Brazil. Feel free to contact me about anything.
 <br/>
 
 [![Luca's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucaPietro&count_private=true&show_icons=true&theme=dracula)](https://github.com/LucaPietro/github-readme-stats)
