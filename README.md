@@ -2,6 +2,8 @@
 I'm Luca, a freelance developer from Brazil. Feel free to contact me about anything.
 <br/>
 
+[![Luca's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucaPietro&count_private=true&show_icons=true&theme=dracula)](https://github.com/LucaPietro/github-readme-stats)
+
 ### About me:
 
 🚀 Skills:
@@ -26,6 +28,4 @@ I'm Luca, a freelance developer from Brazil. Feel free to contact me about anyth
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <br/>
-<br/>
 
-[![Luca's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucaPietro&count_private=true&show_icons=true&theme=dracula)](https://github.com/LucaPietro/github-readme-stats)
