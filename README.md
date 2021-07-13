@@ -16,7 +16,6 @@ I'm Luca, a freelance developer from Brazil. Feel free to contact me about anyth
 <img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/r-%23276DC3.svg?&style=for-the-badge&logo=r&logoColor=white" />
 <br/>
-<br/>
 
 📫 How to reach me:
 
