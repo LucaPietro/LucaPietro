@@ -1,5 +1,6 @@
 ### Hi there 👋
 I'm Luca, a freelance developer from Brazil. Feel free to contact me about anything.
+<br/>
 
 ### About me:
 
@@ -15,6 +16,7 @@ I'm Luca, a freelance developer from Brazil. Feel free to contact me about anyth
 <img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/r-%23276DC3.svg?&style=for-the-badge&logo=r&logoColor=white" />
 <br/>
+<br/>
 
 📫 How to reach me:
 
@@ -24,3 +26,7 @@ I'm Luca, a freelance developer from Brazil. Feel free to contact me about anyth
 <a href="https://www.linkedin.com/in/luca-baron-pietro-64a509151/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+<br/>
+<br/>
+
+[![Luca's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucaPietro&count_private=true&show_icons=true&theme=dracula)](https://github.com/LucaPietro/github-readme-stats)
